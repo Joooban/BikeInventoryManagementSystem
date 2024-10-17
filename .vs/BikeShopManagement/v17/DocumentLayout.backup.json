@@ -1,0 +1,453 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CFB51E-7A66-4212-A2EF-9EA0A6F48692}|BikeShopManagement\\BikeShopManagement.csproj|C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\bikeshopmanagement\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2CFB51E-7A66-4212-A2EF-9EA0A6F48692}|BikeShopManagement\\BikeShopManagement.csproj|solutionrelative:bikeshopmanagement\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CFB51E-7A66-4212-A2EF-9EA0A6F48692}|BikeShopManagement\\BikeShopManagement.csproj|C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\bikeshopmanagement\\stockform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2CFB51E-7A66-4212-A2EF-9EA0A6F48692}|BikeShopManagement\\BikeShopManagement.csproj|solutionrelative:bikeshopmanagement\\stockform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CFB51E-7A66-4212-A2EF-9EA0A6F48692}|BikeShopManagement\\BikeShopManagement.csproj|C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\bikeshopmanagement\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2CFB51E-7A66-4212-A2EF-9EA0A6F48692}|BikeShopManagement\\BikeShopManagement.csproj|solutionrelative:bikeshopmanagement\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CFB51E-7A66-4212-A2EF-9EA0A6F48692}|BikeShopManagement\\BikeShopManagement.csproj|C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\bikeshopmanagement\\inventorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2CFB51E-7A66-4212-A2EF-9EA0A6F48692}|BikeShopManagement\\BikeShopManagement.csproj|solutionrelative:bikeshopmanagement\\inventorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CFB51E-7A66-4212-A2EF-9EA0A6F48692}|BikeShopManagement\\BikeShopManagement.csproj|C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\bikeshopmanagement\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2CFB51E-7A66-4212-A2EF-9EA0A6F48692}|BikeShopManagement\\BikeShopManagement.csproj|solutionrelative:bikeshopmanagement\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CFB51E-7A66-4212-A2EF-9EA0A6F48692}|BikeShopManagement\\BikeShopManagement.csproj|C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\bikeshopmanagement\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2CFB51E-7A66-4212-A2EF-9EA0A6F48692}|BikeShopManagement\\BikeShopManagement.csproj|solutionrelative:bikeshopmanagement\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CFB51E-7A66-4212-A2EF-9EA0A6F48692}|BikeShopManagement\\BikeShopManagement.csproj|C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\bikeshopmanagement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2CFB51E-7A66-4212-A2EF-9EA0A6F48692}|BikeShopManagement\\BikeShopManagement.csproj|solutionrelative:bikeshopmanagement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CFB51E-7A66-4212-A2EF-9EA0A6F48692}|BikeShopManagement\\BikeShopManagement.csproj|C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\bikeshopmanagement\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2CFB51E-7A66-4212-A2EF-9EA0A6F48692}|BikeShopManagement\\BikeShopManagement.csproj|solutionrelative:bikeshopmanagement\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CFB51E-7A66-4212-A2EF-9EA0A6F48692}|BikeShopManagement\\BikeShopManagement.csproj|c:\\users\\admin\\downloads\\bikeshopmanagement (5)\\bikeshopmanagement\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2CFB51E-7A66-4212-A2EF-9EA0A6F48692}|BikeShopManagement\\BikeShopManagement.csproj|solutionrelative:bikeshopmanagement\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CFB51E-7A66-4212-A2EF-9EA0A6F48692}|BikeShopManagement\\BikeShopManagement.csproj|C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\bikeshopmanagement\\salesreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2CFB51E-7A66-4212-A2EF-9EA0A6F48692}|BikeShopManagement\\BikeShopManagement.csproj|solutionrelative:bikeshopmanagement\\salesreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CFB51E-7A66-4212-A2EF-9EA0A6F48692}|BikeShopManagement\\BikeShopManagement.csproj|C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\bikeshopmanagement\\inventorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2CFB51E-7A66-4212-A2EF-9EA0A6F48692}|BikeShopManagement\\BikeShopManagement.csproj|solutionrelative:bikeshopmanagement\\inventorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CFB51E-7A66-4212-A2EF-9EA0A6F48692}|BikeShopManagement\\BikeShopManagement.csproj|C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\bikeshopmanagement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2CFB51E-7A66-4212-A2EF-9EA0A6F48692}|BikeShopManagement\\BikeShopManagement.csproj|solutionrelative:bikeshopmanagement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CFB51E-7A66-4212-A2EF-9EA0A6F48692}|BikeShopManagement\\BikeShopManagement.csproj|C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\bikeshopmanagement\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2CFB51E-7A66-4212-A2EF-9EA0A6F48692}|BikeShopManagement\\BikeShopManagement.csproj|solutionrelative:bikeshopmanagement\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CFB51E-7A66-4212-A2EF-9EA0A6F48692}|BikeShopManagement\\BikeShopManagement.csproj|C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\bikeshopmanagement\\salesreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2CFB51E-7A66-4212-A2EF-9EA0A6F48692}|BikeShopManagement\\BikeShopManagement.csproj|solutionrelative:bikeshopmanagement\\salesreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CFB51E-7A66-4212-A2EF-9EA0A6F48692}|BikeShopManagement\\BikeShopManagement.csproj|C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\bikeshopmanagement\\stockform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2CFB51E-7A66-4212-A2EF-9EA0A6F48692}|BikeShopManagement\\BikeShopManagement.csproj|solutionrelative:bikeshopmanagement\\stockform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CFB51E-7A66-4212-A2EF-9EA0A6F48692}|BikeShopManagement\\BikeShopManagement.csproj|C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\bikeshopmanagement\\stockform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2CFB51E-7A66-4212-A2EF-9EA0A6F48692}|BikeShopManagement\\BikeShopManagement.csproj|solutionrelative:bikeshopmanagement\\stockform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CFB51E-7A66-4212-A2EF-9EA0A6F48692}|BikeShopManagement\\BikeShopManagement.csproj|C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\bikeshopmanagement\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2CFB51E-7A66-4212-A2EF-9EA0A6F48692}|BikeShopManagement\\BikeShopManagement.csproj|solutionrelative:bikeshopmanagement\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CFB51E-7A66-4212-A2EF-9EA0A6F48692}|BikeShopManagement\\BikeShopManagement.csproj|C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\bikeshopmanagement\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2CFB51E-7A66-4212-A2EF-9EA0A6F48692}|BikeShopManagement\\BikeShopManagement.csproj|solutionrelative:bikeshopmanagement\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CFB51E-7A66-4212-A2EF-9EA0A6F48692}|BikeShopManagement\\BikeShopManagement.csproj|C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\bikeshopmanagement\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2CFB51E-7A66-4212-A2EF-9EA0A6F48692}|BikeShopManagement\\BikeShopManagement.csproj|solutionrelative:bikeshopmanagement\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CFB51E-7A66-4212-A2EF-9EA0A6F48692}|BikeShopManagement\\BikeShopManagement.csproj|C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\bikeshopmanagement\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2CFB51E-7A66-4212-A2EF-9EA0A6F48692}|BikeShopManagement\\BikeShopManagement.csproj|solutionrelative:bikeshopmanagement\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CFB51E-7A66-4212-A2EF-9EA0A6F48692}|BikeShopManagement\\BikeShopManagement.csproj|C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\bikeshopmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2CFB51E-7A66-4212-A2EF-9EA0A6F48692}|BikeShopManagement\\BikeShopManagement.csproj|solutionrelative:bikeshopmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CFB51E-7A66-4212-A2EF-9EA0A6F48692}|BikeShopManagement\\BikeShopManagement.csproj|C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\bikeshopmanagement\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2CFB51E-7A66-4212-A2EF-9EA0A6F48692}|BikeShopManagement\\BikeShopManagement.csproj|solutionrelative:bikeshopmanagement\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CFB51E-7A66-4212-A2EF-9EA0A6F48692}|BikeShopManagement\\BikeShopManagement.csproj|C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\bikeshopmanagement\\salesreport.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{F2CFB51E-7A66-4212-A2EF-9EA0A6F48692}|BikeShopManagement\\BikeShopManagement.csproj|solutionrelative:bikeshopmanagement\\salesreport.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CFB51E-7A66-4212-A2EF-9EA0A6F48692}|BikeShopManagement\\BikeShopManagement.csproj|C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\bikeshopmanagement\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2CFB51E-7A66-4212-A2EF-9EA0A6F48692}|BikeShopManagement\\BikeShopManagement.csproj|solutionrelative:bikeshopmanagement\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CFB51E-7A66-4212-A2EF-9EA0A6F48692}|BikeShopManagement\\BikeShopManagement.csproj|C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\bikeshopmanagement\\usercontrol1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2CFB51E-7A66-4212-A2EF-9EA0A6F48692}|BikeShopManagement\\BikeShopManagement.csproj|solutionrelative:bikeshopmanagement\\usercontrol1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 204,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Reports.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\BikeShopManagement\\Reports.cs",
+              "RelativeDocumentMoniker": "BikeShopManagement\\Reports.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\BikeShopManagement\\Reports.cs [Design]",
+              "RelativeToolTip": "BikeShopManagement\\Reports.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:17:32.724Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SalesReport.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\BikeShopManagement\\SalesReport.cs",
+              "RelativeDocumentMoniker": "BikeShopManagement\\SalesReport.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BikeShopManagement (4)\\BikeShopManagement\\SalesReport.cs [Design]",
+              "RelativeToolTip": "..\\BikeShopManagement (4)\\BikeShopManagement\\SalesReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:17:20.954Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\BikeShopManagement\\login.cs",
+              "RelativeDocumentMoniker": "BikeShopManagement\\login.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\BikeShopManagement\\login.cs [Design]",
+              "RelativeToolTip": "BikeShopManagement\\login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T12:59:48.966Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\BikeShopManagement\\Form1.cs",
+              "RelativeDocumentMoniker": "BikeShopManagement\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\BikeShopManagement\\Form1.cs [Design]",
+              "RelativeToolTip": "BikeShopManagement\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:42:15.157Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\BikeShopManagement\\dashboard.cs",
+              "RelativeDocumentMoniker": "BikeShopManagement\\dashboard.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\BikeShopManagement\\dashboard.cs [Design]",
+              "RelativeToolTip": "BikeShopManagement\\dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:46:36.107Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "registration.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\BikeShopManagement\\registration.cs",
+              "RelativeDocumentMoniker": "BikeShopManagement\\registration.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\BikeShopManagement\\registration.cs [Design]",
+              "RelativeToolTip": "BikeShopManagement\\registration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T11:41:16.769Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InventoryManagement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\BikeShopManagement\\InventoryManagement.cs",
+              "RelativeDocumentMoniker": "BikeShopManagement\\InventoryManagement.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\BikeShopManagement\\InventoryManagement.cs [Design]",
+              "RelativeToolTip": "BikeShopManagement\\InventoryManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T06:55:09.167Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\BikeShopManagement\\ProductForm.cs",
+              "RelativeDocumentMoniker": "BikeShopManagement\\ProductForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\BikeShopManagement\\ProductForm.cs [Design]",
+              "RelativeToolTip": "BikeShopManagement\\ProductForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T06:55:01.439Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StockForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\BikeShopManagement\\StockForm.cs",
+              "RelativeDocumentMoniker": "BikeShopManagement\\StockForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\BikeShopManagement\\StockForm.cs [Design]",
+              "RelativeToolTip": "BikeShopManagement\\StockForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:47:44.379Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Reports.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\BikeShopManagement\\Reports.cs",
+              "RelativeDocumentMoniker": "BikeShopManagement\\Reports.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\BikeShopManagement\\Reports.cs",
+              "RelativeToolTip": "BikeShopManagement\\Reports.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAIwGYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:03:12.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StockForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\BikeShopManagement\\StockForm.Designer.cs",
+              "RelativeDocumentMoniker": "BikeShopManagement\\StockForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\BikeShopManagement\\StockForm.Designer.cs",
+              "RelativeToolTip": "BikeShopManagement\\StockForm.Designer.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAvwDEAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T19:02:50.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SalesReport.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\BikeShopManagement\\SalesReport.cs",
+              "RelativeDocumentMoniker": "BikeShopManagement\\SalesReport.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\BikeShopManagement\\SalesReport.cs",
+              "RelativeToolTip": "BikeShopManagement\\SalesReport.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAqwIYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T23:01:14.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "login.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\BikeShopManagement\\login.cs",
+              "RelativeDocumentMoniker": "BikeShopManagement\\login.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\BikeShopManagement\\login.cs",
+              "RelativeToolTip": "BikeShopManagement\\login.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAqwFsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:03:42.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\BikeShopManagement\\Form1.cs",
+              "RelativeDocumentMoniker": "BikeShopManagement\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\BikeShopManagement\\Form1.cs",
+              "RelativeToolTip": "BikeShopManagement\\Form1.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAA3wG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:06:35.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\BikeShopManagement\\dashboard.cs",
+              "RelativeDocumentMoniker": "BikeShopManagement\\dashboard.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\BikeShopManagement\\dashboard.cs",
+              "RelativeToolTip": "BikeShopManagement\\dashboard.cs",
+              "ViewState": "AgIAAEcBAAAAAAAAAAAswF0BAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:55:45.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "registration.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\BikeShopManagement\\registration.cs",
+              "RelativeDocumentMoniker": "BikeShopManagement\\registration.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\BikeShopManagement\\registration.cs",
+              "RelativeToolTip": "BikeShopManagement\\registration.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAUwI0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:20:03.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InventoryManagement.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\BikeShopManagement\\InventoryManagement.cs",
+              "RelativeDocumentMoniker": "BikeShopManagement\\InventoryManagement.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\BikeShopManagement\\InventoryManagement.cs",
+              "RelativeToolTip": "BikeShopManagement\\InventoryManagement.cs",
+              "ViewState": "AgIAADgBAAAAAAAAAAAkwGUBAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:00:43.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\BikeShopManagement\\ProductForm.cs",
+              "RelativeDocumentMoniker": "BikeShopManagement\\ProductForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\BikeShopManagement\\ProductForm.cs",
+              "RelativeToolTip": "BikeShopManagement\\ProductForm.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwE4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T03:51:56.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StockForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\BikeShopManagement\\StockForm.cs",
+              "RelativeDocumentMoniker": "BikeShopManagement\\StockForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\BikeShopManagement\\StockForm.cs",
+              "RelativeToolTip": "BikeShopManagement\\StockForm.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowBsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T03:45:21.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\BikeShopManagement\\Program.cs",
+              "RelativeDocumentMoniker": "BikeShopManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\BikeShopManagement\\Program.cs",
+              "RelativeToolTip": "BikeShopManagement\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAnwBUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:00:11.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\BikeShopManagement\\Connection.cs",
+              "RelativeDocumentMoniker": "BikeShopManagement\\Connection.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\BikeShopManagement\\Connection.cs",
+              "RelativeToolTip": "BikeShopManagement\\Connection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:17:47.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserControl1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\BikeShopManagement\\UserControl1.cs",
+              "RelativeDocumentMoniker": "BikeShopManagement\\UserControl1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\BikeShopManagement\\UserControl1.cs",
+              "RelativeToolTip": "BikeShopManagement\\UserControl1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T23:00:40.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserControl1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\BikeShopManagement\\UserControl1.Designer.cs",
+              "RelativeDocumentMoniker": "BikeShopManagement\\UserControl1.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\BikeShopManagement\\UserControl1.Designer.cs",
+              "RelativeToolTip": "BikeShopManagement\\UserControl1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:57:50.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SalesReport.resx",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\BikeShopManagement\\SalesReport.resx",
+              "RelativeDocumentMoniker": "BikeShopManagement\\SalesReport.resx",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\BikeShopManagement\\SalesReport.resx",
+              "RelativeToolTip": "BikeShopManagement\\SalesReport.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-10-09T22:56:25.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "dashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\BikeShopManagement\\dashboard.Designer.cs",
+              "RelativeDocumentMoniker": "BikeShopManagement\\dashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BikeShopManagement (5)\\BikeShopManagement\\dashboard.Designer.cs",
+              "RelativeToolTip": "BikeShopManagement\\dashboard.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:53:49.389Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
